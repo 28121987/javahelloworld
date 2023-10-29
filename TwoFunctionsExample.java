@@ -7,7 +7,7 @@ public class TwoFunctionsExample {
         int sum = addNumbers(num1, num2);
         System.out.println("Sum: " + sum);
 
-       // int product = multiplyNumbers(num1, num2);
+        int product = multiplyNumbers(num1, num2);
         System.out.println("Product: " + product);
     }
 
